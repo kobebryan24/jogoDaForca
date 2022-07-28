@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "jogoForca",
+    "database": "jogo_forca",
+    "host": "./database.sqlite",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "username": "root",
+    "password": "jogoForca",
+    "database": "jogo_forca",
+    "host": "./database.sqlite",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "username": "root",
+    "password": "jogoForca",
+    "database": "jogo_forca",
+    "host": "./database.sqlite",
+    "dialect": "sqlite"
+  }
+}
